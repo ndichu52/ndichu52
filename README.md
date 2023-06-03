@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](![Uploading company logo.png…]()
+[![MasterHead](![https://app.logo.com/view/logo_482c36b8-8287-44e7-9bba-130be79da83e]()
 )](https://kimutaiandy.io)
 <h1 align="center">Hi 👋, I'm Ndichu Ian</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
