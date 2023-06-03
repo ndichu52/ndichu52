@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif)](https://kimutaiandy.io)
+[![MasterHead](![Uploading company logo.png…]()
+)](https://kimutaiandy.io)
 <h1 align="center">Hi 👋, I'm Ndichu Ian</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img aling= "right" alt="Coding" width="400" scr="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
